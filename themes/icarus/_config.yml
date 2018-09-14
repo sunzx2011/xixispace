@@ -57,8 +57,8 @@ comment:
     facebook: # enter true to enable
     isso: # enter the domain name of your own comment isso server eg. comments.example.com
     changyan: # please fill in `appid` and `conf` to enable
-        appid:
-        conf:
+        appid: 	cytOI4RyY
+        conf: enable
     gitment:
         owner: #your github ID
         repo: #the repo to store comments
@@ -95,4 +95,4 @@ miscellaneous:
         twitter_id:
         google_plus:
     links:
-        Hexo: http://hexo.io
+        推广家: http://www.tuiguangjia.com
