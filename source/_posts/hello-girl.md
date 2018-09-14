@@ -2,7 +2,7 @@
 title: hello girl
 date: 2018-09-14
 categories: girl
-tags: [girl2,girl2]
+tags: [girl1,girl2]
 ---
 
 ### girl
