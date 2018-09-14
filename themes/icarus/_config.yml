@@ -27,7 +27,10 @@ customize:
     thumbnail: true # enable posts thumbnail, options: true, false
     favicon: # path to favicon
     social_links:
-        github: http://github.com/ppoffice/hexo-theme-icarus
+        github: https://github.com/sunzx2011/
+        weixin: /
+        qq: /
+        weibo: /
     social_link_tooltip: true # enable the social link tooltip, options: true, false
 
 # Widgets
