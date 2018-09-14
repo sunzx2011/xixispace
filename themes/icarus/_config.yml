@@ -73,7 +73,7 @@ comment:
         notify: false
         verify: false
         placeholder: 快来评论吧！！
-        guest_info: nick
+        guestInfo: nick
         pageSize: 10
 
 # Share
