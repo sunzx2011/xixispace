@@ -36,19 +36,5 @@ google_plus:
 fb_admins:
 fb_app_id:
 
-search:
-  path: search.xml
-  field: post
-  format: html
-  limit: 10000
-
-plugin:
-- hexo-generator-feed
-#Feed Atom
-feed:
-type: atom
-path: atom.xml
-limit: 20
-
-sitemap:
-    path: sitemap.xml
+local_search:
+    enable: true
