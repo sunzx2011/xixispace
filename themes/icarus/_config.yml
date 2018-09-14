@@ -18,20 +18,16 @@ customize:
         fixed: true
         avatar: css/images/avatar.png
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-        author: PPOffice
-        author_title: Web Developer & Designer
-        location: Harbin, China
-        follow: https://github.com/ppoffice/
+        author: 程序猿XIXI
+        author_title: springboot2 & springcloud2
+        location: ShangHai, China
+        follow: https://github.com/sunzx2011/
     highlight: monokai
     sidebar: right # sidebar position, options: left, right or leave it empty
     thumbnail: true # enable posts thumbnail, options: true, false
     favicon: # path to favicon
     social_links:
         github: http://github.com/ppoffice/hexo-theme-icarus
-        twitter: /
-        facebook: /
-        dribbble: /
-        rss: /
     social_link_tooltip: true # enable the social link tooltip, options: true, false
 
 # Widgets
