@@ -70,9 +70,9 @@ comment:
         on: true
         appId: YuUMxs1uPBwTB1KxDrsg5Jwv-gzGzoHsz
         appKey: 3YMVTkL7Q5XTWt0fymynq6A1
-        notify: true
+        notify: false
         verify: false
-        placeholder: Just Do It
+        placeholder: 快来评论吧！！
     
 
 # Share
