@@ -1,8 +1,10 @@
 ---
 title: hello_xixi
-date: 2018-09-12 11:56:14
+date: 2018-09-12
 tags:
+- hello
 ---
 
-测试
-test
+HELLO XIXI
+
+WELCOME TO XIX SPACE
