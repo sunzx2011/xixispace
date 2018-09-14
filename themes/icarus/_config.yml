@@ -73,7 +73,8 @@ comment:
         notify: false
         verify: false
         placeholder: 快来评论吧！！
-    
+        guest_info: nick
+        pageSize: 10
 
 # Share
 share: default # options: jiathis, bdshare, addtoany, default
