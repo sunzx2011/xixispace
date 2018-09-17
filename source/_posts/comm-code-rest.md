@@ -5,8 +5,6 @@ categories: 字典
 tags: [字典]
 ---
 
-### 字典标准系统
-
 #### 新增字典信息
 
 * URL | /api/sys/comm_code/add
